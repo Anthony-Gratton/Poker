@@ -1,9 +1,9 @@
 {
   "main": "main.js",
-  "version": "0.0.1",
-  "author": "Anthony",
-  "description": "app pour jouer au poker",
-  "name": "poker",
+  "name": "poker420",
+  "version": "0.0.0",
+  "author": "Alex",
+  "description": "app pour jouer au poker420",
   "scripts": {
     "electron": "electron .",
     "electron-build": "ng build && electron .",
